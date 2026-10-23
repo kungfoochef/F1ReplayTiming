@@ -6,6 +6,8 @@ All notable changes to F1 Replay Timing will be documented in this file.
 
 ### Improvements
 
+- **Out-lap indicator** — in practice and qualifying, the leaderboard shows OUT in place of the sector markers while a driver is on an out-lap, from pit exit until the lap is completed. Works in live timing and in replays; sessions processed before this version need reprocessing to show it in replays.
+
 - **Leaderboard guide** — the top of the Features page now shows a sample leaderboard with each column numbered and explained, so it's clear what everything means at a glance.
 
 - **Home page introduction** — a short summary of what the site does and its main features. Once hidden, an Overview button in the header brings it back.
